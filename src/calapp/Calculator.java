@@ -68,6 +68,7 @@ package calapp;
 				 System.out.println("__________________________");
 				 break;
 			 case 5:
+                                 System.out.println("exit");
 				 break;
 				 
 			 }
